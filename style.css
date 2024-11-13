@@ -52,8 +52,11 @@ p{
 
 .recipe{
     width: 90%;
-    border: 1px solid var(--Brown-800);
     margin:  0 auto;
+}
+
+.hero{
+    padding: 50px 0;
 }
 
 .hero_img{
@@ -73,6 +76,7 @@ p{
 .prep_header{
     color: var(--Brown-800);
     margin-top: 0;
+    font-size: 1.3rem;
 }
 .list_items{
     margin-top: 10px;

@@ -81,6 +81,7 @@ p{
 
 .preparation_time li::marker{
     color: var(--Rose-800);
+
 }
 .prep_header{
     color: var(--Rose-800);
@@ -97,6 +98,7 @@ p{
 .list_items::marker{
     color: var(--Brown-800);
     font-weight: 900;
+    
     
 }
 .ingredients_list{
